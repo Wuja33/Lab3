@@ -1,0 +1,3 @@
+1;Burger;30.99
+2;Hotdog;10.99
+3;Schabowy;12.99
